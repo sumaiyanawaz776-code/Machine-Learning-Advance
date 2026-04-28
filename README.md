@@ -1,7 +1,7 @@
 # ML Advance
 
 ## Task 1: News Topic Classifier Using BERT
-###Description
+### Description
 This project leverages State-of-the-Art (SOTA) NLP to categorize news headlines into four distinct topics: World, Sports, 
 Business, and Sci/Tech. By fine-tuning the bert-base-uncased transformer model on the AG News Dataset, 
 we achieve high-precision classification that understands the nuances of journalistic language.
