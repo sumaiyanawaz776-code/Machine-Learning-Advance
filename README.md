@@ -43,7 +43,7 @@ ensuring accuracy and reducing hallucinations.
 
 **Features**
 Knowledge Retrieval: Uses a vectorized document store to query external PDF or Wikipedia data.
-Conversational Memory: Implements BufferWindowMemory to allow the chatbot to remember previous 
+Conversational Memory: Implements ConversationalBufferWindowMemory to allow the chatbot to remember previous 
 exchanges within the session.
 High-Speed Inference: Integrated with the Groq API for lightning-fast Llama 3 / Mixtral responses.
 User Interface: A clean, chat-based interface built with Streamlit.
